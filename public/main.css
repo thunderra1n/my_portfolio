@@ -1,0 +1,85 @@
+body{
+  font: Arial, Sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.jumbotron {
+  padding: 150px 0;
+  background-image: url('https://media.giphy.com/media/QX6ZKC7HMcCKMQ4fH9/giphy.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+
+.inner {
+  background-color: rgba(0, 0, 100, .8);
+  color: #fff;
+  width: 75%;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.works img{
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.skill{
+  font-size: 18px;
+  color:#fff;
+  padding: 2px 3px;
+  border-radius: 5px;
+}
+
+.col-md-4{
+  margin-bottom: 10px;
+}
+.col-md-11{
+  margin:0 auto;
+  border: 2px solid #aaa;
+  border-radius: 10px;
+}
+.plang{
+  font-size: 15px;
+  color:#fff;
+  padding: 2px 3px;
+  border-radius: 5px;
+}
+
+.python{
+  background-color:#0099ff;
+}
+
+.js{
+ background-color:#00aa55;
+}
+
+.electron{
+background-color:#000099;
+}
+
+.swift{
+  background-color: orange;
+}
+
+.ruby{
+  background-color: #aa0000;
+}
+
+.mysql{
+  background-color: #999900;
+}
+
+.php{
+  background-color: purple;
+}
+
+.clang{
+  background-color: #ff3333;
+}
+
+.html, .css{
+  background-color: #ff0000;
+}
