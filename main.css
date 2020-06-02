@@ -22,8 +22,8 @@ body{
 }
 
 .works img{
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 90%;
+  max-height: 90%;
 }
 
 .skill{
